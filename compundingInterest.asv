@@ -1,0 +1,28 @@
+%% compoundingInterest.m
+% This program determines the amount of time in years required for an
+% initial investment to double in an account with compunding interest.
+
+% Author: Andrew Congdon
+% February 14, 2023
+
+% Clear Workspace
+clear
+
+% Clear Command Window
+clc
+
+%% Set Parameters
+% Set P
+P = 1000;
+% Set r
+r = 0.07;
+% Set n
+n = 4;
+
+% Set t as counter
+t = 0;
+% Set A
+A = 
+
+%% Use While Loop
+while 
